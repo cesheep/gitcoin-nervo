@@ -11,7 +11,8 @@ https://explorer.nervos.org/aggron/transaction/0x4fb612f35678353ece5f1008e0bb2af
 
 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
 
+![sudt-transaction](https://github.com/cesheep/gitcoin-nervo/blob/main/Step%204/sudt%20transaction.png)
 
 5. The SUDT ID from the console output after executing the deposit script (in text format).
 
-``` ```
+``` 1016  ```
