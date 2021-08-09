@@ -3,7 +3,7 @@
 
 2. A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
 
-![sudt-cli](https://github.com/cesheep/gitcoin-nervo/blob/main/Step%204/SUDT%20Transfer.png)
+![sudt-cli](https://github.com/cesheep/gitcoin-nervo/blob/main/Step%204/sudtTrasnfer.png)
 
 3. A link to the transaction ID created by sudt-cli on the Testnet Explorer.
 
