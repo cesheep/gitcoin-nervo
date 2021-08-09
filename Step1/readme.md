@@ -7,6 +7,6 @@
 
 https://explorer.nervos.org/aggron/address/ckt1qyqyhld8u0gyu680ngakylwhvz7mtl7a4euqf60t7n
 
-3.Layer 2 Funded
+3.Layer 2 Deposit
 
-![Funded](https://github.com/cesheep/gitcoin-nervo/blob/main/Step1/Fundedaccount.png)
+![Funded](https://github.com/cesheep/gitcoin-nervo/blob/main/Step1/Layer2Deposit.png)
