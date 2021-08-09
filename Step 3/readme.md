@@ -3,7 +3,7 @@
 ![Console](https://github.com/cesheep/gitcoin-nervo/blob/main/Step%203/ConsoleContractCall.png)
 
 2. TXN Hash
-3. 
+
 ```0xee1283735653815e5976eb47ded00add4caa81ced4c8477ebbf2df223e75f994```
 
 3. Contract Adress Called
