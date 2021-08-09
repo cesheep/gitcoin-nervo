@@ -42,5 +42,5 @@
       ],
       "stateMutability": "view",
       "type": "function"
-    }`
+    }
 ```
